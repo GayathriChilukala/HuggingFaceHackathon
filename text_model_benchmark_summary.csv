@@ -1,5 +1,5 @@
 Model ID,Type,Provider,Success Rate,Avg Latency,Median Latency,Avg Captions/Request,Total Captions,Avg Response Length,Requests
 mixtral_8x7b_together,huggingface,together,100.0%,3.54s,2.65s,2.8,28,375 chars,10/10
 deepseek_r1_nebius,huggingface,nebius,100.0%,8.01s,8.36s,3.0,30,1913 chars,10/10
-llama_3_2_1b_novita,huggingface,novita,90.0%,3.74s,3.41s,3.0,27,666 chars,9/10
+llama_3_2_1b_novita,huggingface,novita,90.0%,3.74s,3.41s,3.0,27,666 chars,10/10
 github_gpt41_mini,github,github,100.0%,1.39s,1.27s,3.0,30,339 chars,10/10
