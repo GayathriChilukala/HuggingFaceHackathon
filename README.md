@@ -26,8 +26,8 @@ This benchmark evaluates the performance of various **Vision-Language** and **Te
 |-------------------------------|-------------|------------|-------------|----------------|-----------------------|----------------|----------------------|
 | `mixtral_8x7b_together`       | huggingface | together   | 4.88s       | 3.73s          | 3.0                   | 27             | 374 chars            |
 | `llama_3_2_1b_novita`         | huggingface | novita     | 2.65s       | 2.70s          | 3.0                   | 27             | 599 chars            |
-| `google/gemma-2-9b-nebius`    | huggingface | nebius     | **1.63s**   | **1.45s**      | 3.0                   | 30             | 531 chars            |
-| `deepseek_r1_qwen3_8b_novita` 🏆 | huggingface | novita     | 7.87s       | 7.80s          | 3.0                   | 27             | **2414 chars**        |
+| `google/gemma-2-9b-nebius`   🏆 | huggingface | nebius     | **1.63s**   | **1.45s**      | 3.0                   | 30             | 531 chars            |
+| `deepseek_r1_qwen3_8b_novita`  | huggingface | novita     | 7.87s       | 7.80s          | 3.0                   | 27             | **2414 chars**        |
 
 **✅ Chosen Text Model:** `google/gemma-2-9b-nebius`  
 - Fastest overall latency among all text models  
