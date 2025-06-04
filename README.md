@@ -36,13 +36,3 @@ This benchmark evaluates the performance of various **Vision-Language** and **Te
 
 ---
 
-### 💡 Strategy & Key Points
-
-- For **Vision Captioning**, I selected a **general inference model** (`gemma_3_27b`) due to its superior speed and descriptive output quality.
-- For **Text Captioning**, I chose a **lower-cost model** (`gemma-2-9b-nebius`) to **generate versions of captions** from the primary visual output.
-- The selected text model:
-  - Generates **multiple high-quality variants** per caption.
-  - Is optimized for **latency and cost**, making it suitable for real-time pipelines.
-  - Enables efficient caption expansion from the vision model’s output.
-
-> This two-stage approach ensures optimized latency and cost-efficiency without compromising caption quality.
