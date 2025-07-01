@@ -1,5 +1,0 @@
-Model ID,Type,Provider,Success Rate,Avg Latency,Median Latency,Avg Captions/Request,Total Captions,Avg Response Length,Requests
-mixtral_8x7b_together,huggingface,together,90.0%,4.88s,3.73s,3.0,27,374 chars,9/10
-llama_3_2_1b_novita,huggingface,novita,90.0%,2.65s,2.70s,3.0,27,599 chars,9/10
-google/gemma-2-9b-nebius,huggingface,nebius,100.0%,1.63s,1.45s,3.0,30,531 chars,10/10
-deepseek_r1_qwen3_8b_novita,huggingface,novita,90.0%,7.87s,7.80s,3.0,27,2414 chars,9/10
